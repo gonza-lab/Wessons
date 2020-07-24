@@ -1,0 +1,61 @@
+h2{
+    font-family: sans-serif;
+    font-size: 22px;
+    color:darkturquoise
+}
+
+button{
+    background-color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-radius: 12px;
+    color:aliceblue ;
+    
+    
+}
+
+thead{
+     font-family: sans-serif;
+    font-size: 20px;
+}
+tbody{
+    font-family: sans-serif;
+    
+}
+
+html{
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+#calendario {
+    height: 90%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+table-layout: fixed ;
+  width: 90% ;
+}
+ 
+td{
+    height: 80px;
+    text-align: right;
+    vertical-align: text-top;
+    background-color: white;
+  
+}
+
+.borders{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    
+}
+
+#calendario, th, td{
+  border: 1.5px solid black;
+     border-collapse: collapse;
+}
+
+
+
+
