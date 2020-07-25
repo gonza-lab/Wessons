@@ -1,0 +1,118 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+  font-family: arial;
+}
+
+.header > p {
+  font-size: 1.375rem;
+  font-weight: bold;
+  color: darkturquoise;
+  margin: 0.83em 0;
+}
+
+.c-subjects {
+  display: flex;
+  padding: 1em;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.subject {
+  margin: 0 1em 1em 1em;
+  padding: 1em;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+  max-width: 200px;
+  width: 100%;
+}
+
+.subject > p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: #616161;
+  text-shadow: #e0e0e0 1px 1px 0;
+}
+
+.subject > ul {
+  padding: 0;
+  margin-left: 0.5em;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+@media (max-width: 600px) {
+  :root {
+    font-size: 15px;
+  }
+
+  .c-subjects {
+    padding: 0;
+  }
+
+  .subject {
+    max-width: 150px;
+    width: 100%;
+    margin: 0.5em 0;
+  }
+}
+
+.c-subject-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.c-subject-info > p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 0 4px black;
+  margin-bottom: 0;
+}
+
+.c-info {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1em;
+  max-width: 320px;
+  width: 100%;
+}
+
+.c-info > p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  text-shadow: 0 0 4px gray;
+}
+
+.c-info > div {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+  padding: 1em;
+  height: 80%;
+}
+
+a {
+    text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: #616161;
+  text-shadow: #e0e0e0 1px 1px 0;
+}
+}
