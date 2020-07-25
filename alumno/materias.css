@@ -65,3 +65,43 @@ html {
     margin: 0.5em 0;
   }
 }
+
+.c-subject-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.c-subject-info > p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 0 4px black;
+  margin-bottom: 0;
+}
+
+.c-info {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1em;
+  max-width: 320px;
+  width: 100%;
+}
+
+.c-info > p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  text-shadow: 0 0 4px gray;
+}
+
+.c-info > div {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+  padding: 1em;
+  height: 80%;
+}
