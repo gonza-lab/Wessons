@@ -1,12 +1,12 @@
 h2{
-    font-family: sans-serif;
+    font-family: "Open Sans";
     font-size: 22px;
     color:darkturquoise
 }
 
 button{
     background-color: grey;
-    font-family: sans-serif;
+    font-family: "Recursive";
     font-size: 15px;
     border-radius: 12px;
     color:aliceblue ;
@@ -14,13 +14,12 @@ button{
     
 }
 
-thead{
-     font-family: sans-serif;
-    font-size: 20px;
+table {
+    font-family: "Montserrat";
 }
-tbody{
-    font-family: sans-serif;
-    
+
+thead{
+    font-size: 20px;
 }
 
 html{
@@ -39,9 +38,11 @@ table-layout: fixed ;
  
 td{
     height: 80px;
+    width: 50px;
     text-align: right;
     vertical-align: text-top;
     background-color: white;
+    
   
 }
 

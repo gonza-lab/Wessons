@@ -10,6 +10,7 @@ html {
 }
 
 .header > p {
+    font-family: "Open Sans";
   font-size: 1.375rem;
   font-weight: bold;
   color: darkturquoise;
@@ -33,15 +34,8 @@ html {
   width: 100%;
 }
 
-.subject>a{
-  text-decoration: none;
-}
-
-.subject>a:hover{
-  text-decoration: underline;
-}
-
-.subject p {
+.subject > p {
+font-family: "Mulish";
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
@@ -52,11 +46,13 @@ html {
 }
 
 .subject > ul {
+    font-family:"Mulish";
   padding: 0;
   margin-left: 0.5em;
   margin-bottom: 0;
   list-style-type: none;
 }
+
 
 @media (max-width: 600px) {
   :root {
@@ -123,3 +119,4 @@ a {
   color: #616161;
   text-shadow: #e0e0e0 1px 1px 0;
 }
+
