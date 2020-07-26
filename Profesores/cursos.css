@@ -46,12 +46,13 @@ font-family: "Mulish";
 }
 
 .subject > ul {
-    font-family:"Mullish";
+    font-family:"Mulish";
   padding: 0;
   margin-left: 0.5em;
   margin-bottom: 0;
   list-style-type: none;
 }
+
 
 @media (max-width: 600px) {
   :root {
