@@ -25,6 +25,11 @@ thead{
 html{
     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 }
+
+body{
+    background-color: transparent;
+}
+
 #calendario {
     height: 90%;
   left: 10%;

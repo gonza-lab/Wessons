@@ -1,3 +1,7 @@
+body {
+  background-color: transparent;
+}
+
 *,
 *::before,
 *::after {
@@ -6,20 +10,19 @@
 
 html {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
-  font-family: 'Recursive', sans-serif;  /* Descomentar si quieres activar la fuente Recursive */
+  font-family: "Recursive", sans-serif; /* Descomentar si quieres activar la fuente Recursive */
 }
 
 #logo {
-    padding-right: 10px;
+  padding-right: 10px;
 }
 
-#nombre{
-    font-family: "Open Sans";
-    font-size: 20px;
-    color:darkturquoise;
-    padding-top: 6px;
+#nombre {
+  font-family: "Open Sans";
+  font-size: 20px;
+  color: darkturquoise;
+  padding-top: 6px;
 }
-
 
 .header > p {
   font-size: 1.375rem;
@@ -87,7 +90,7 @@ html {
 }
 
 .c-subject-info > p {
-color: aquamarine;
+  color: aquamarine;
   width: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -98,7 +101,6 @@ color: aquamarine;
 
 .c-info {
   display: flex;
-  justify-content: center;
   flex-direction: column;
   max-width: 320px;
   width: 100%;
