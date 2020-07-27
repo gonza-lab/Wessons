@@ -1,0 +1,79 @@
+html{
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+#nombre{
+    font-family: "Open Sans";
+    font-size: 20px;
+    color:darkturquoise;
+    padding-top: 6px;
+}
+
+#logo {
+    padding-right: 10px;
+}
+
+button{
+    background-color: grey;
+    font-family: "Recursive";
+    font-size: 15px;
+    border-radius: 12px;
+    color:aliceblue ;
+}
+
+main{
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+body{
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+#calendario {
+    height: 90%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+table-layout: fixed ;
+  width: 90% ;
+}
+
+#calendario, th, td{
+  border: 1.5px solid black;
+     border-collapse: collapse;
+}
+
+table {
+    font-family: "Montserrat";
+}
+
+thead{
+    font-size: 20px;
+    text-align: center;
+}
+ 
+th{
+    text-align: center;
+}
+
+td{
+    height: 80px;
+    width: 50px;
+    text-align: right;
+    vertical-align: text-top;  
+    background-color: white;
+}
+
+.borders{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    
+}
+
+
+
+
+
+
