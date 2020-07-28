@@ -6,6 +6,9 @@ Wessons, an intelligent clasroom which can understand and advise you!
 ## Long description
 [More detail is available here](DESCRIPTION.md)
 
+## Project roadmap
+![Roadmap](Roadmap.jpeg)
+
 ## Demo video
 [Watch the video](https://youtu.be/vOgCOoy_Bx0)
 
