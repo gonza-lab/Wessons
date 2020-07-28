@@ -4,9 +4,9 @@ pandemic in the framework of education; Wessons is an application that offers te
 students the possibility of continuing their interaction virtually. What is special about Wessons
 is that it has artificial intelligence (provided by IBM) which operates in two different ways: 
 
-* a) The first is a virtual assistant that will guide our users in the access and will assist them when
+* The first is a virtual assistant that will guide our users in the access and will assist them when
 questions or primary queries arise.
-* b) The second is a virtual assistant which operates in the framework of the pandemic caused by the covid 19. 
+* The second is a virtual assistant which operates in the framework of the pandemic caused by the covid 19. 
 
 This virtual assistant has the ability to provide us information about the
 coronavirus, as well as to do a quick checkup. As we all know the problem for the covid 19 is
