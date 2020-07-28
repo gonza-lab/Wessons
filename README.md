@@ -8,3 +8,9 @@ Wessons, an intelligent clasroom which can understand and advise you!
 
 ## Demo video
 [Watch the video](https://youtu.be/vOgCOoy_Bx0)
+
+## Authors
+* **Battilana, Mateo**
+* **Flores, Gonzalo**
+* **Labarque, Aylen**
+* **López, Priscila**
