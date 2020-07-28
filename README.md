@@ -10,8 +10,8 @@ Wessons, an intelligent clasroom which can understand and advise you!
 [Watch the video](https://youtu.be/vOgCOoy_Bx0)
 
 ## Built with
-* [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant)
-* [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+* [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant) - Used for image storage for the design and for the chatbot
+* [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - Used to build a chatbot
 
 ## Authors
 * **Battilana, Mateo**
