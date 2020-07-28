@@ -14,3 +14,4 @@ Wessons, an intelligent clasroom which can understand and advise you!
 * **Flores, Gonzalo**
 * **Labarque, Aylen**
 * **López, Priscila**
+* **Pais, Juan**
