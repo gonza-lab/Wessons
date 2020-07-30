@@ -23,4 +23,4 @@ Wessons allows three kind of users:
 Since we are students that are working with a teacher, we understand all the difficulties teachers and our classmates are going thought so we are also going to include a chat between students and teachers and between just students.  Because we think communication is very important and it has also been affected by COVID-19.
 
 We know Watson can be helpful in many ways, so we are investigating it uses to make more features available and get the best out of it.
-We are from Argentina and we know most schools of the country lack of resources to continue their education. Making a web application is making the platform available for any device. Although we are thinking about developing the app for android and iOS. 
+We are from Argentina and we know most schools of the country lack of resources to continue their education. Making a web application is making the platform available for any device.  
