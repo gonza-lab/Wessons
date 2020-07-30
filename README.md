@@ -8,7 +8,7 @@ Wessons, an intelligent clasroom that can understand and advise you!
 
 ## Project roadmap
 ![Roadmap](Roadmap.jpeg)
-![Roadmap](WessonsFuture.jpeg)
+![Roadmap](WessonsFuture.png)
 
 ## Demo video
 [Watch the video](https://youtu.be/vOgCOoy_Bx0)
