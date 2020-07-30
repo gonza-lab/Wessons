@@ -1,7 +1,7 @@
 # Wessons
 
 ## Short description
-Wessons, an intelligent clasroom that can understand and advise you!
+Wessons, an intelligent and friendly virtual classroom that makes it easier!
 
 ## Long description
 [More detail is available here](DESCRIPTION.md)
