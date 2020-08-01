@@ -1,4 +1,4 @@
-# WAC
+# Wessons
 
 ## Short description
 WAC, an intelligent and friendly virtual classroom that makes it easier!
@@ -22,3 +22,4 @@ WAC, an intelligent and friendly virtual classroom that makes it easier!
 * **Flores, Gonzalo**
 * **Labarque, Aylen**
 * **Pais, Juan**
+* **López, Priscila**
