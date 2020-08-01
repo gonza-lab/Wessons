@@ -11,7 +11,7 @@ Wessons, an intelligent and friendly virtual classroom that makes it easier!
 ![Roadmap](WessonsFuture.png)
 
 ## Demo video
-[Watch the video](https://youtu.be/vOgCOoy_Bx0)
+[Watch the video](https://www.youtube.com/watch?v=CrS6cskfkus)
 
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant) - Used for image storage for the design and for the chatbot
