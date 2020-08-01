@@ -1,7 +1,7 @@
-# Wessons
+# WAC
 
 ## Short description
-Wessons, an intelligent and friendly virtual classroom that makes it easier!
+WAC, an intelligent and friendly virtual classroom that makes it easier!
 
 ## Long description
 [More detail is available here](DESCRIPTION.md)
@@ -21,5 +21,4 @@ Wessons, an intelligent and friendly virtual classroom that makes it easier!
 * **Battilana, Mateo**
 * **Flores, Gonzalo**
 * **Labarque, Aylen**
-* **López, Priscila**
 * **Pais, Juan**
