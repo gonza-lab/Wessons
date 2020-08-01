@@ -1,7 +1,7 @@
 # Wessons
 
 ## Short description
-WAC, an intelligent and friendly virtual classroom that makes it easier!
+Wessons, an intelligent and friendly virtual classroom that makes it easier!
 
 ## Long description
 [More detail is available here](DESCRIPTION.md)
