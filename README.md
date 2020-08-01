@@ -21,5 +21,6 @@ WAC, an intelligent and friendly virtual classroom that makes it easier!
 * **Battilana, Mateo**
 * **Flores, Gonzalo**
 * **Labarque, Aylen**
-* **Pais, Juan**
 * **López, Priscila**
+* **Pais, Juan**
+
