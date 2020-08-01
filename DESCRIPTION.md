@@ -1,10 +1,10 @@
-# Wessons
+# W.A.C
 
 COVID-19 has affected the economy and health systems around the world but it has also compromised education. Most of the schools or universities weren’t prepared to continue teaching through remote education. There are institutions that haven’t found yet a platform that allows all teachers and students to keep teaching and learning. 
 Because teachers can’t just expect that students learn everything on their own with the material they provide. If there is no communication or meetings between them, teachers can’t really know if their students are actually learning something or they just trying to pass this difficult year.
 We also know that not all people have access to a computer, but they most probably have a smartphone.
 
-So, we came up with the idea of Wessons, a web application that solves these problems and more. Wessons works with Watson (an AI provided by IBM). Watson is used as a virtual assistant to answer questions or doubts about:
+So, we came up with the idea of Watson Assited Classroom, a web application that solves these problems and more. W.A.C works with Watson (an AI provided by IBM). Watson is used as a virtual assistant to answer questions or doubts about:
  
 -	Information about the school, college or university. Like contact info or the address or attention hours.  As well as information about the authorities.
 -	It can give you your course schedule.
@@ -12,7 +12,7 @@ So, we came up with the idea of Wessons, a web application that solves these pro
 
 We are planning to include bracelets with temperature sensors that work with IoT, so schools can know if their students or teachers have COVID-19 symptoms. This knowledge could help schools avoid having outbreaks.  This would help also the government to have a more updated statistics about the cases. 
 
-Wessons allows three kind of users:
+W.A.C allows three kind of users:
 
 -	Administrator: this user would be used by the institution. They need to fill the database with their students, teachers and courses. They also have the possibility of checking how teachers and students are doing.
 
